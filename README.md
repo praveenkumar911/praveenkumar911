@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @praveenkumar911
 - 👀 I’m interested in Web,Python Projects, ML Projects
-- 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on any projects based on the interests mentioned above
 - 📫 How to reach me Praveenkumarpalaboyina@gmail.com
 
